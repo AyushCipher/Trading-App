@@ -83,19 +83,5 @@ npm run android
 `
 
 
-## Support & Connect
-
-<!-- GitHub Star -->
-[![GitHub Repo](https://img.shields.io/badge/GitHub-trading__app-181717?style=for-the-badge&logo=github)](https://github.com/Ritik5Prasad/trading_app)
-
-<!-- Buy Me a Coffee -->
-<a href="https://www.buymeacoffee.com/ritikprasad" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
-
-<!-- Topmate -->
-<a href="https://topmate.io/ritik_prasad" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Session-%2300BFFF.svg?&style=for-the-badge&logo=google-meet&logoColor=white" height="40">
-</a>
 
 
