@@ -53,10 +53,6 @@ flowchart LR
 4. The Socket.IO server pushes live stock updates to subscribed clients during trading hours.
 5. The chart web app renders candlestick data and streams updates from the same realtime backend.
 
-## Multi-Agent Architecture
-
-No runtime multi-agent architecture is implemented in the product itself. The application uses a conventional client-server model with a realtime socket layer. If you are evaluating this repository from a hiring perspective, the strength is in the architectural separation of concerns rather than an autonomous agent workflow.
-
 ## Tech Stack
 
 | Layer | Technologies |
