@@ -63,10 +63,6 @@ flowchart LR
 | Auth & Security | OTP verification, PIN lock, biometric auth, OAuth, refresh tokens |
 | Data | MongoDB, in-memory MongoDB fallback |
 
-## AI/LLM Technologies Used
-
-No direct LLM or AI API integration is present in the current codebase. That is a deliberate strength for a trading product focused on reliability, determinism, and security. The architecture is, however, AI-ready if you later want to add features such as market summarization, support copilots, or intelligent alerts.
-
 ## Folder Structure
 
 ```text
