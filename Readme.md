@@ -242,7 +242,7 @@ _Placeholder for login, dashboard, portfolio, and transaction screenshots._
 
 ### Chart Web App
 
-_Placeholder for candlestick chart and realtime market update screenshots._
+![Candlestick chart web client](docs/screenshots/chart-client.png)
 
 ## Future Improvements
 
